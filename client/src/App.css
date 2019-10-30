@@ -1,0 +1,31 @@
+body {
+  background-image: url(./itunes.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+}
+#home {
+  text-align: center;
+}
+
+nav {
+  overflow: hidden;
+  background-color: cyan;
+}
+
+nav ul {
+  float: left;
+  color: red;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  padding-top: 12px;
+}
+
+nav li {
+  display: inline-block;
+  padding-right: 10px;
+  font-size: 25px;
+  font-style: italic;
+}
+
